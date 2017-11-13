@@ -1,2 +1,7 @@
 console.log("Hello world!");
-return end;
+
+
+
+{
+	"Why???",
+}
