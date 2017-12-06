@@ -1,0 +1,31 @@
+.login .login-form {
+	padding: 40px 30px;
+	width: 40%;
+	min-width: 300px;
+	max-width: 400px;
+	border: 1px solid #aaa;
+	border-radius: 4px;
+	margin: 80px 50px;
+	float: right;
+}
+.login .login-form h1 {
+	margin-bottom: 30px;
+}
+.login .login-form h1 span {
+	font-size: 14px;
+	float: right;	
+	padding: 10px;
+
+}
+.login .login-form-forgot {
+	float: right;
+	margin-top: 10px;
+}
+
+.login .login-form .login-form-button{
+  width: 100%;
+}
+
+.login .ant-input-group-addon:last-child {
+    padding: 0;
+}
